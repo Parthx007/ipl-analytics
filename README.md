@@ -67,18 +67,16 @@ Files Used:
 
 ### Top Run Scorers
 
-[![Top Run Scorers](images/Top 10 Run Scorers in IPL History.png)
-](https://github.com/Parthx007/ipl-analytics/blob/main/images/Top%2010%20IPL%20Run%20Scorers.png)
+![Top Run Scorers](https://github.com/Parthx007/ipl-analytics/blob/main/images/Top%2010%20IPL%20Run%20Scorers.png)
 ### Top Six Hitters
 ![Top Six Hitters](https://github.com/Parthx007/ipl-analytics/blob/main/images/Top%2010%20Six%20Hitters%20in%20IPL%20History.png)
 
 ### Teams With Most 200+ Scores
 
-[![Teams With Most 200+ Scores](images/Teams with Most 200+ Scores in IPL History.png)
-](https://github.com/Parthx007/ipl-analytics/blob/main/images/Teams%20with%20Most%20200%2B%20Scores%20in%20IPL%20History.png)
+![Teams With Most 200+ Scores](https://github.com/Parthx007/ipl-analytics/blob/main/images/Teams%20with%20Most%20200%2B%20Scores%20in%20IPL%20History.png)
 ### Best Chasing Teams
 
-[![Best Chasing Teams](images/Best chasing team.png)](https://github.com/Parthx007/ipl-analytics/blob/main/images/Best%20chasing%20team.png)
+![Best Chasing Teams](https://github.com/Parthx007/ipl-analytics/blob/main/images/Best%20chasing%20team.png)
 
 ---
 
