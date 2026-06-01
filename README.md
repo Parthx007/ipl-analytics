@@ -70,7 +70,7 @@ Files Used:
 [![Top Run Scorers](images/Top 10 Run Scorers in IPL History.png)
 ](https://github.com/Parthx007/ipl-analytics/blob/main/images/Top%2010%20IPL%20Run%20Scorers.png)
 ### Top Six Hitters
-[![Top Six Hitters](images/Top 10 Six Hitters in IPL History.png)(https://github.com/Parthx007/ipl-analytics/blob/main/images/Top%2010%20Six%20Hitters%20in%20IPL%20History.png)
+![Top Six Hitters](https://github.com/Parthx007/ipl-analytics/blob/main/images/Top%2010%20Six%20Hitters%20in%20IPL%20History.png)
 
 ### Teams With Most 200+ Scores
 
