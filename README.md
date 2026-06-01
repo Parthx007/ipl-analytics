@@ -4,16 +4,22 @@
 
 This project analyzes IPL match and ball-by-ball data using Python, Pandas, Matplotlib, and Seaborn.
 
-The goal was to answer business-style cricket analytics questions and perform exploratory data analysis (EDA) on IPL datasets.
+The objective was to perform Exploratory Data Analysis (EDA) and answer cricket-related performance and business questions using real IPL data.
+
+---
 
 ## Dataset
 
-Source: IPL Matches and Deliveries Dataset
+Dataset Source:
 
-Files used:
+[IPL Complete Dataset (2008–2020)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+
+Files Used:
 
 * matches.csv
 * deliveries.csv
+
+---
 
 ## Technologies Used
 
@@ -23,7 +29,10 @@ Files used:
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
-* Git & GitHub
+* Git
+* GitHub
+
+---
 
 ## Analyses Performed
 
@@ -35,35 +44,82 @@ Files used:
 
 ### Batting Analysis
 
-* Top 10 run scorers
-* Top 10 six hitters
+* Top 10 IPL run scorers
+* Top 10 six hitters in IPL history
 
 ### Bowling Analysis
 
-* Top wicket takers
+* Top wicket takers in IPL history
 
 ### Match Insights
 
-* Toss impact on match results
+* Impact of toss results on match outcomes
 * Best chasing teams in IPL
+
+### Data Cleaning
+
+* Standardized historical franchise names
+* Aggregated match-level and ball-by-ball data
+
+---
+
+## Visualizations
+
+### Top Run Scorers
+
+![Top Run Scorers](images/Top 10 IPL Run Scorers.png)
+
+### Top Six Hitters
+
+![Top Six Hitters](images/Top 10 Six Hitters in IPL History.png)
+
+### Teams With Most 200+ Scores
+
+![Teams With Most 200+ Scores](images/Teams with Most 200+ Scores in IPL History.png)
+
+### Best Chasing Teams
+
+![Best Chasing Teams](images/Best chasing team.png)
+
+---
+
+## Project Structure
+
+```text
+ipl-analytics/
+
+├── data/
+│   ├── matches.csv
+│   └── deliveries.csv
+
+├── notebook/
+│   └── ipl_analysis.ipynb
+
+├── images/
+│   ├── Best chasing team.png
+│   ├── Teams with Most 200+ Scores in IPL History.png
+│   ├── Top 10 IPL Run Scorers.png
+│   └── Top 10 Six Hitters in IPL History.png
+
+└── README.md
+```
+
+---
 
 ## Key Learnings
 
 * Data Cleaning
+* Exploratory Data Analysis (EDA)
 * GroupBy Operations
 * Data Aggregation
 * Data Visualization
-* Merging Datasets
-* Git and GitHub Workflow
+* Git Version Control
+* GitHub Workflow
 
-## Project Structure
+---
 
-ipl-analytics/
+## Author
 
-├── data/
+Parth Parashar
 
-├── notebook/
-
-│ └── ipl_analysis.ipynb
-
-└── README.md
+B.Tech AIML Student | Aspiring Software Developer
